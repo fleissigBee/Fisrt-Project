@@ -1,6 +1,8 @@
 # toplevel CMakeLists.txt for a catkin workspace
 # catkin/cmake/toplevel.cmake
 
+# i just added some comment to test git
+
 cmake_minimum_required(VERSION 2.8.3)
 
 Project(KITcar_debugger)
